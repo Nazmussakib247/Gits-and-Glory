@@ -16,8 +16,6 @@
 The repository is organized into sequentially numbered directories, each focusing on a specific Git concept. This modular design ensures a progressive learning experience.
 
 ---
-## 📁 Repository Structure
-
 Gits-and-Glory/
 ├── 01_Git_Basic/             # Core Git commands and initial setup
 ├── 02_Git_Branching/         # Branch creation, merging, and workflows
