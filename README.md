@@ -22,7 +22,7 @@ Gits-and-Glory/
 ├── 03_Git_GitHub_Command/    # Git + GitHub workflow and commands
 ├── 04_Git_Advance/           # Advanced Git techniques and tools
 ├── 05_Git_Undo/              # Undoing and reverting changes
-├── 07_Recovery/             # Recovering lost data and commits
+├── 07_Recovery/              # Recovering lost data and commits
 └── README.md
 
 ---
