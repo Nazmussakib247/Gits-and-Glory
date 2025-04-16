@@ -15,7 +15,17 @@
 
 The repository is organized into sequentially numbered directories, each focusing on a specific Git concept. This modular design ensures a progressive learning experience.
 
-Gits-and-Glory/ ├── 01_Git_Basic/ # Core Git commands and initial setup ├── 02_Git_Branching/ # Branch creation, merging, and workflows ├── 03_Git_GitHub_Command/ # Git + GitHub workflow and commands ├── 04_Git_Advance/ # Advanced Git techniques and tools ├── 05_Git_Undo/ # Undoing and reverting changes ├── 07_Recovery/ # Recovering lost data and commits └── README.md
+---
+## 📁 Repository Structure
+
+Gits-and-Glory/
+├── 01_Git_Basic/             # Core Git commands and initial setup
+├── 02_Git_Branching/         # Branch creation, merging, and workflows
+├── 03_Git_GitHub_Command/    # Git + GitHub workflow and commands
+├── 04_Git_Advance/           # Advanced Git techniques and tools
+├── 05_Git_Undo/              # Undoing and reverting changes
+├── 07_Recovery/             # Recovering lost data and commits
+└── README.md
 
 ---
 
