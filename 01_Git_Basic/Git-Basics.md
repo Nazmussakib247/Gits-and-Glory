@@ -35,7 +35,7 @@ explorer .
 
 ### Initialize Git
 ```
-git init.
+git init
 ```
 ### Git Adding New Files
 #### Add specified file
